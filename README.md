@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Yash Falke - [@goldybhatia759](https://www.instagram.com/goldybhatia759/) - navjotsb7@gmail.com
+Navjot Singh - [@goldybhatia759](https://www.instagram.com/goldybhatia759/) - navjotsb7@gmail.com
 
 Project Link: [iNotebook](https://github.com/Goldy0759/iNotebook_MERN)
 
