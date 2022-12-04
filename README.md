@@ -86,7 +86,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yashfalke77/iNotebook
+   git clone https://github.com/Goldy0759/iNotebook_MERN
    ```
 3. Install NPM packages
    ```sh
@@ -130,9 +130,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Yash Falke - [@yashfalke77](https://www.instagram.com/yashfalke77/) - yashfalke77@gmail.com
+Yash Falke - [@goldybhatia759](https://www.instagram.com/goldybhatia759/) - navjotsb7@gmail.com
 
-Project Link: [iNotebook](https://github.com/yashfalke77/iNotebook)
+Project Link: [iNotebook](https://github.com/Goldy0759/iNotebook_MERN)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
